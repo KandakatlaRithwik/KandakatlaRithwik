@@ -29,4 +29,4 @@
 ## 📫 Connect with Me
 - 📧 Email: rithwikkandakatla@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/rithwik-kandakatla
-- 🌐 Portfolio: (add later)
+- 🌐 Portfolio: https://kandakatlarithwik.github.io/RithwikPortfolio/
