@@ -1,4 +1,4 @@
-# Hi there! I'm Rithwik 👋
+# Hi there! I'm Rithwik Kandakatla👋
 
 🎓 CSE Student at Kakatiya Institute of Technology and Science, Warangal  
 💻 Interested in Web Development, Java, Python, and Machine Learning
